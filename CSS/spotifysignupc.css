@@ -1,0 +1,58 @@
+.signuplogo{
+	margin-top:20px;
+	padding-top:40px;
+
+}
+.signuplogo i{
+	font-size: 45px;
+	font-style:bold;
+}
+.signuplogo p{
+	font-size: 30px;
+	font-style:bold;
+	text-align: center;
+}
+.form-group label{
+	font-style:bold;
+	font-size: 20px;
+	
+}
+.form-group{
+	padding-left: 580px;
+}
+.signupbtn{
+  font-family: Ariel;
+  margin-top:35;
+  margin-left:45;
+  padding-left: 120px;
+  padding-right: 120px;
+  font-size: 25px;
+  color: black;
+  letter-spacing: 1px;
+  line-height: 30px;
+  border: 2px white;
+  border-radius: 40px;
+  background: #00e600;
+  transition: all 0.3s ease 0s;
+}
+.uyt{
+	margin-left:630;
+}
+.loginbtn{
+  font-family: Ariel;
+  margin-top:35;
+  margin-left:635;
+  padding-left: 120px;
+  padding-right: 120px;
+  font-size: 25px;
+  color: black;
+  letter-spacing: 1px;
+  line-height: 30px;
+  border: 2px white;
+  border-radius: 40px;
+  background: #00e600;
+  transition: all 0.3s ease 0s;
+}
+.yt{
+	margin-left:20;
+}

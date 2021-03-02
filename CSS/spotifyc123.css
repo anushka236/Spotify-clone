@@ -1,0 +1,248 @@
+
+#header{
+	background: black;
+	color:white;
+	padding:10px;
+}
+
+#menu{
+	list-style: none;
+	margin:0;
+	padding: 0;
+}
+#menu li{
+	display: inline-block;
+	padding:20px;
+}
+#menu li:hover{
+	color:#2eb82e;
+}
+#menu a{
+	color:white;
+	text-decoration: none;
+
+}
+#menu a:hover{
+	color:#2eb82e;
+	text-decoration: none;
+}
+
+#logo{
+	padding:40px;
+}
+.video-container{
+background: #ff1a75;
+
+}
+.section p{
+	color:white;
+	font-size: 45px;
+	padding-top: 30px;
+	padding-bottom:75px;
+}
+.section .btn{
+  
+  font-family: Ariel;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+  color: black;
+  letter-spacing: 1px;
+  line-height: 30px;
+  border: 2px white;
+  border-radius: 40px;
+  background: white;
+  transition: all 0.3s ease 0s;
+}
+.why .whyspotify h1{
+	text-align: center;
+	padding-top:45px;
+	font-size: 70px;
+	padding-bottom:25px;
+}
+
+}
+.why .col-4 h3{
+    display: inline-block;
+}
+.containersection{
+	display: inline-block;
+	margin-top:100px;
+	margin-bottom: 90px;
+	margin-left: 15px;
+}
+.col-12{
+	display: flex;
+}
+.col{
+	justify-content: center;
+}
+.containersection i{
+	margin-left: 130px;
+	font-size: 40px;
+}
+.fre {
+	background:#ff1a75;
+	font-family: Ariel;
+	color:white;
+}
+.fre h1{
+	margin-top: 180px;
+	font-size: 50px;
+	
+}
+.fre h2{
+	margin-bottom: 180px;
+	font-size: 50px;
+	
+}
+.footer{
+    margin-top: 100px;
+	background:black;
+	color:white;
+	list-style: none;
+}
+.footer .row{
+	margin-top: 100px;
+}
+.footer col-3 h3{
+    padding-top: 50px;
+	
+}
+.footer li:hover{
+	color:#2eb82e;
+
+} 
+.footer li{
+	list-style: none;
+}
+
+.premmini{
+	background:  #e6b3ff;
+	justify-content: center;
+
+}
+.premmini h1{
+	font-size: 45px;
+	padding-top: 175px;
+
+}
+.premmini p{
+	padding-bottom: 25px;
+}
+.premmini .col-12{
+	justify-content: center;
+	padding-bottom: 120px;
+
+}
+.premmini button{
+  font-family: Ariel;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  font-size: 15px;
+  color: black;
+  letter-spacing: 1px;
+  line-height: 30px;
+  border: 2px white;
+  border-radius: 40px;
+  transition: all 0.3s ease 0s;
+
+}
+.premmini .btn1{
+	font-size: 15px;
+	background:black;
+	color:#a3c2c2;
+	padding-left:13px;
+}
+.premmini .btn2{
+	margin-left: 13px;
+	font-size: 15px;
+	background:black;
+	color:#a3c2c2;
+
+}
+.musicculture{
+	display: inline-block;
+	margin-top:100px;
+	margin-bottom: 90px;
+	margin-left: 15px;
+}
+.musicculture h1{
+	padding-left: 350px;
+}
+.col-12{
+	display: flex;
+}
+.col{
+	justify-content: center;
+}
+.musicsection img{
+	margin-left: 130px;
+	font-size: 40px;
+}
+
+.helpyou{
+font-family: Ariel;
+background:#1a53ff;
+padding-top: 150px;
+text-align: center;
+color: white;
+font-size: 45px;
+
+}
+.helpyou rect{
+	color:white;
+}
+.accnthelp{
+	display: inline-block;
+	margin-top:100px;
+	margin-bottom: 90px;
+	margin-left: 15px;
+}
+.accnthelp h3 {
+	padding-left: 150px;
+}
+.col-12{
+	display: flex;
+}
+.accnt p{
+	padding-left: 150px;
+
+}
+.downloadspotify{
+	background:	 #00e6ac;	
+	justify-content: center;
+}
+.downloadspotify i{
+	padding-top: 45px;
+	padding-bottom: 15px;
+}
+.downloadspotify h1{
+	text-align: center;
+	font-family: Ariel;
+	font-size: 45px;
+	
+
+}
+.downloadspotify i{
+	margin-top: 135px;
+	margin-left: 700px;
+	font-size: 60px;
+
+}
+.downloadspotify p{
+	text-align: center;
+	font-family: Ariel;
+	font-size: 16px;
+}
+.downloadbtn{
+	margin-left: 700px;
+	font-size: 15px;
+	background:white;
+	color:black;
+	border-radius: 40px;
+  transition: all 0.3s ease 0s;
+  margin-bottom:135px;
+
+}
